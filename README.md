@@ -8,6 +8,7 @@ modelo del **mosaico fluido**, creada en *Blender* mediante **Geometry Nodes**.
 - Proteínas integrales estilizadas con colores pastel biomédicos
 - Iluminación con HDRI
 - Render final en Cycles (700 samples)
+- Proteínas descargadas del Protein Data Bank (PDB) y adaptadas para su visualización dentro de Blender.
 
 ### Inspiración
 Tutorial de YouTube:  
